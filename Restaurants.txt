@@ -1,0 +1,75 @@
+FastFood Havant 5-10 McDonalds https://www.mcdonalds.com/gb/en-gb/menu
+FastFood Havant 10-20 Burger_King https://www.burgerking.co.uk/menu
+FastFood Havant 20-30 Greggs https://www.greggs.co.uk/
+FastFood Havant 40-50 1st_Quay_Fish_&_Chips https://www.1stquay.com/
+FastFood Havant 50+ Curry_Cottage https://www.facebook.com/currycottagehavant/
+
+FastFood Waterlooville 5-10 Micks_Monster_Burgers https://www.micksmonsterburgers.com/menu/
+FastFood Waterlooville 10-20 BBQ_Boss https://www.bbq-boss.co.uk/
+FastFood Waterlooville 20-30 1st_Quay_Fish_&_Chips https://www.1stquay.com/
+FastFood Waterlooville 40-50 Denmead's_Finest_Fish_and_Chips https://denmeadfinest.weebly.com/
+FastFood Waterlooville 50+ Papa_John's_Pizza https://www2.papajohns.co.uk/
+
+FastFood Petersfield 5-10 Mother_Kellys https://motherkellysfishandchips.co.uk/takeaway-in-petersfield/
+FastFood Petersfield 10-20 Subway https://www.subway.com/en-GB/MenuNutrition/Menu
+FastFood Petersfield 20-30 Petersfield_Kebab_House https://restaurantguru.com/Petersfield-Kebab-Petersfield
+FastFood Petersfield 40-50 Earth_Restaurant_and_Takeaway http://www.eatatearth.com/
+FastFood Petersfield 50+ Wild_Bean_Cafe https://www.bp.com/en_gb/united-kingdom/home/products-and-services/our-offer/wild-bean-cafe.html
+
+FastFood Southsea 5-10 McDonalds https://www.mcdonalds.com/gb/en-gb/menu
+FastFood Southsea 10-20 Subway https://www.subway.com/en-GB/MenuNutrition/Menu
+FastFood Southsea 20-30 Burger_King https://www.burgerking.co.uk/menu
+FastFood Southsea 40-50 Earth_Restaurant_and_Takeaway http://www.eatatearth.com/
+FastFood Southsea 50+ Wild_Bean_Cafe https://www.bp.com/en_gb/united-kingdom/home/products-and-services/our-offer/wild-bean-cafe.html
+
+Dessert Waterlooville 5-10 Goozie https://goozie.orderyoyo.co.uk/
+Dessert Havant 10-20 19_Fourteas_TeaRoom http://19fourteashavant.co.uk/menu/
+
+
+Pizza Petersfield 5-10 La_Piazzetta https://www.lapiazzetta-petersfield.com/menu/antipasti-starters/
+Pizza Petersfield 10-20 Pizza_Express https://www.pizzaexpress.com/petersfield-chapel-street/
+Pizza Petersfield 20-30 Four_London_Road https://www.fourlondonroad.com/
+Pizza Petersfield 40-50 The_Auction_House_Petersfield http://auctionhouse-petersfield.com/
+Pizza Petersfield 50+ Northern_Slice https://order.storekit.com/northern-slice/menu
+
+Pizza Southsea 5-10 Pizza_Go_Go https://www.pizzagogo.co.uk/menu
+Pizza Southsea 10-20 Papa_Johns https://www.papajohns.co.uk/stores/southsea/pizzas.aspx
+Pizza Southsea 20-30 Circolo_Pizzeria http://www.circolo.co.uk/
+Pizza Southsea 40-50 Prezzo_Italian_Restaurant https://www.prezzorestaurants.co.uk/
+Pizza Southsea 50+ Zizzi https://www.zizzi.co.uk/
+
+Pizza Waterlooville 5-10 Giorgio's_Pizza https://giorgiosuk.com/
+Pizza Waterlooville 10-20 PizzaHut https://www.pizzahut.co.uk/menu
+Pizza Waterlooville 20-30 Four_London_Road https://www.fourlondonroad.com/
+Pizza Waterlooville 40-50 Prezzo_Italian_Restaurant_Port_Solent https://www.prezzorestaurants.co.uk/
+Pizza Waterlooville 50+ Zizzi https://www.zizzi.co.uk/
+
+Pizza Havant 5-10 Papa_John's_Pizza https://www2.papajohns.co.uk/
+Pizza Havant 10-20 Dominos https://www.dominos.co.uk/
+Pizza Havant 20-30 Perfectpizzahavant https://perfectpizzahavant.com/
+Pizza Havant 40-50 Caprinos_Pizza_Havant https://www.caprinospizza.co.uk/default.aspx
+Pizza Havant 50+ Zizzi https://www.zizzi.co.uk/
+
+
+Chinese Havant 5-10 Aroma_Oriental_Restaurant http://aromaoriental.co.uk/take-away/
+Chinese Havant 10-20 The_Chinese_Food_Centre https://chinese-food-centre.business.site/
+Chinese Havant 20-30 Cheerful_Dragon http://www.facebook.com/cheerfuldragonhavant
+Chinese Havant 40-50 Mandarin https://www.mandarin-emsworth.co.uk/menu.html
+Chinese Havant 50+ The_Taste_of_China http://www.facebook.com/Taste-Of-China-111124937311702/
+
+Chinese Waterlooville 5-10 Aroma_Oriental_Restaurant http://aromaoriental.co.uk/take-away/
+Chinese Waterlooville 10-20 Jade_Garden https://www.j-garden.co.uk/?action=menu
+Chinese Waterlooville 20-30 Pearl_of_the_Orient https://www.pearloftheorientfarlington.co.uk/
+Chinese Waterlooville 40-50 The_Taste_of_China http://www.facebook.com/Taste-Of-China-111124937311702/
+Chinese Waterlooville 50+ The_New_Golden_Leaf https://www.tripadvisor.co.uk/Restaurant_Review-g1925519-d11810824-Reviews-The_New_Golden_Leaf-Cowplain_Hampshire_England.html
+
+Chinese Southsea 5-10 Golden_Bowl_Chinese_Takeaway https://www.goldenbowlpo4.co.uk/menu.html 
+Chinese Southsea 10-20 Tin_Tin http://www.tintin.org.uk/files/TinTinrestaurantmenuprintversion2022.pdf
+Chinese Southsea 20-30 The_Taste_of_China http://www.facebook.com/Taste-Of-China-111124937311702/
+Chinese Southsea 40-50 Noble_House_Chinese_Restaurant http://www.noblehousesouthsea.com/
+Chinese Southsea 50+ Hong_Kong_Tea_Bar https://www.facebook.com/hktbports/
+
+Chinese Petersfield 20-30 Tai_Tong_Chinese_Restaurant https://www.taitong.co.uk/menus/2020/TaiTong-Take-away-menu.pdf
+
+
+Indian Southsea 10-20 Kadir's_Indian_Street_Kitchen https://www.kadirsindian.com/ordering
